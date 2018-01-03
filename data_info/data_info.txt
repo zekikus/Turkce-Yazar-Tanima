@@ -1,0 +1,29 @@
+﻿Sınıflar:
+0 - Ali Ece
+1 - Gila BenMayor
+2 - Gülse Birsel
+3 - İlber Ortaylı
+4 - Mehmet Barlas
+5 - Mehmet Yaşin
+
+Özellikler (Girdiler):
+Cümle sayısı
+Kelime sayısı
+Farklı kelime sayısı
+Ünlem
+Nokta Sayısı
+Virgül sayısı
+Soru İşareti
+İki Nokta
+İsim Sayısı
+Fiil sayısı
+Sıfat Sayısı
+Zamir Sayısı
+Zarf Sayısı
+Bağlaç Sayısı
+Edat Sayısı
+Zaman Belirten Kelime Sayısı
+Sayı İçeren Kelime Sayısı
+Özel Kelime sayısı
+Kısaltma Sayısı
+Soru Sayısı
